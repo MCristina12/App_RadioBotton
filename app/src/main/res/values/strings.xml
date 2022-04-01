@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App_RadioBotton</string>
+    <string name="titulo">Mini calculadora</string>
+    <string name="n1">Numero 1</string>
+    <string name="n2">Numero 2</string>
+    <string name="suma">Sumar</string>
+    <string name="restar">Restar</string>
+    <string name="boton">Calcular</string>
+    <string name="res">Resultado</string>
+</resources>
